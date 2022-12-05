@@ -1,0 +1,115 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 60px;
+  margin-top: 0;
+  line-height: 1;
+  font-family: 'Sacramento', cursive;
+  color: #EDE4E0;
+}
+p{
+  color: #EDE4E0;
+}
+
+a{
+  color: #425F57;
+  text-decoration: none;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.text {
+  width: 30%;
+  margin: auto;
+}
+
+hr {
+  border: dotted #425F57 6px;
+  border-bottom: 0;
+  width: 5%;
+  margin: 100px auto;
+}
+
+
+.space{
+  height: 30px;
+  background-color: #9BA17B;
+}
+
+
+
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #395144;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #395144;
+}
+
+.top-container {
+  background-color: #4E6C50;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #9BA17B;
+}
+
+.bottom-container {
+  background-color: #4E6C50;
+  padding: 50px 0 20px;
+}
+
+
+
+.cooking{
+  height: 300px;
+  width: 300px;
+}
+
+.book {
+  height: 300px;
+  height: 300px;
+}
+
+.profile2{
+  height: 300px;
+  width: 300px;
+}
+
+
+
+.teeth1{
+  position: absolute;
+  right: 300px;
+  top: 150px;
+  height: 200px;
+  width: 200px;
+}
+
+.teeth2{
+  position: absolute;
+  left: 400px;
+  bottom: 400px;
+  height: 200px;
+  width: 200px;
+}
+
+.dentist{
+  position: relative;
+  top: 5px;
+  height: 500px;
+  width: 500px;
+}
